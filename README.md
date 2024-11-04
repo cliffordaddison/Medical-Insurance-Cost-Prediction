@@ -24,15 +24,15 @@ The following libraries were utilized in this project:
 2. **Data Preprocessing**: This included handling missing values, encoding categorical variables, and normalizing numerical features.
 3. **Exploratory Data Analysis (EDA)**: Visualizations were created to understand the distribution of data and relationships between features, including age, BMI, number of children, and smoking status.
 4. **Model Training**: The dataset was split into training and testing sets. A Linear Regression model was trained on the training set to predict insurance costs.
-5. **Model Evaluation**: The model's performance was evaluated using various metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
+5. **Model Evaluation**: The model's performance was evaluated using R-squared (R²).
 
 ## Results
 
-The model's performance metrics will be discussed here, including insights gained from the EDA and model evaluation. For example, the model's R² score indicates how well the features explain the variability in insurance costs.
+The R-squared (R²) value for the prediction of the training data is 75% and that of the test data is 74%.
 
 ## Conclusion
 
-This project demonstrates the process of building a medical insurance cost prediction model using machine learning techniques. Future work could involve exploring more complex models, feature engineering, and improving the dataset.
+This project demonstrates the process of building a medical insurance cost prediction model using machine learning techniques.
 
 ## Installation
 
